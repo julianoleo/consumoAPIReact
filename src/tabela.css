@@ -1,0 +1,27 @@
+.tabela table {
+    width: 100%;
+}
+
+.tabela th {
+    background-color: #283cae;
+    color: #fff;
+}
+
+.tabela td {
+    text-align: center;
+    font-size: 20px;
+}
+
+.tabela .Par {
+    background-color: #ddd;
+}
+
+.tabela .Impar {
+    background-color: #ccc;
+}
+
+.tabela h1 {
+    background-color: #283cae;
+    color: #fff;
+    text-align: center;
+}
