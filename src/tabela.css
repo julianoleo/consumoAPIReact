@@ -3,13 +3,14 @@
 }
 
 .tabela th {
-    background-color: #283cae;
+    background-color:#5F9EA0;
     color: #fff;
+    font-size: 15px;
 }
 
 .tabela td {
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .tabela .Par {
